@@ -12,6 +12,7 @@
 
                 heapify(array, i, 0);
             }
+
         }
 
         private static void heapify(int[] array, int heapSize, int rootIndex) {
